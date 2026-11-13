@@ -136,7 +136,7 @@ Currently at the early development stage, focusing on PDF ingestion and local LL
 
 ---
 
-# My Crucible: Tools & Technologies
+## My Crucible: Tools & Technologies
 
 **Languages:** Python, TypeScript, JavaScript, C++, Java, SQL (basic)
 
